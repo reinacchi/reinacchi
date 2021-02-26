@@ -1,9 +1,19 @@
-# NotMarx
+# NotMarx (Reinhardt)
+Original Creator Of **[Xen.db](https://github.com/NotMarx/Xen.db)**, A SQLite3 Database Designed To Be Easy-To-Use & More Utility Methods. Learning Some **JS** Stuff That Can Help People. Wanting To Contribute But Lack Of Programming Knowledge. 
 
-Hi there, welcome to my profile's page! I'm a starter programmer who doing some JavaScript things mostly as I'm still learning and me, myself are also a learner. 
+- A Moderator Of [BotsForDiscord](https://github.com/BotsForDiscord).
+
+---
+
+# Projects
+- **[Xen.db](https://github.com/NotMarx/Xen.db)**
+- **[GiveawayCord (Discord Bot)](https://github.com/NotMarx/GiveawayCord)**
+- **Iris** (WIP)
+- **More Soon™**
+
+If You Wanna Contribute To One Of My Popular Project Which Is **[Xen.db](https://github.com/NotMarx/Xen.db)**, You're Permitted To Do So.
 
 ---
 
-I'm currently work for [InPlex Development (Discord Server)](https://discord.gg/78RyqJK) and making things as I had mentioned before! Check out my other repositories and glad if you'd actually like them!
 
----
+
