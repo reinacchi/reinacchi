@@ -14,10 +14,4 @@ Original Creator Of **[Xen.db](https://github.com/NotMarx/Xen.db)**, A SQLite3 D
 
 ---
 
-# My Programming Skills
 
-- A Decent, Fellow Developer :^)
-
-- I'm currently on a Development at **[Reloaded](https://github.com/reloadedjs/reloaded)**, Another NodeJS Discord Library. Wanting to participate/contribute in this development are very welcomed ヾ(⌐■_■)ノ♪
-
----
