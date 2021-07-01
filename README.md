@@ -6,5 +6,4 @@ Original Creator Of **[Xen.db](https://github.com/NotMarx/Xen.db)**, A SQLite3 D
 # Noteable Projects
 - **[`Xen.db`](https://github.com/NotMarx/Xen.db)**
 - **[`GiveawayCord (Discord Bot)`](https://github.com/NotMarx/GiveawayCord)**
-- **[`Reloaded`](https://github.com/reloadedjs/reloaded)** (W.I.P)
 - **More Soon™**
