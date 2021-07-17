@@ -1,9 +1,9 @@
 # NotMarx (Reinhardt)
-Original Creator Of **[Xen.db](https://github.com/NotMarx/Xen.db)**, A SQLite3 Database Designed To Be Easy-To-Use & More Utility Methods. Learning Some **JS** Stuff That Can Help People.
+I made things :)
 
 - A Moderator Of [BotsForDiscord](https://github.com/BotsForDiscord).
 
 # Noteable Projects
-- **[`Xen.db`](https://github.com/NotMarx/Xen.db)**
-- **[`GiveawayCord (Discord Bot)`](https://github.com/NotMarx/GiveawayCord)**
-- **More Soon™**
+- **[`Kyuris`](https://github.com/NotMarx/kyuris)** - An Easy-To-Use Eris Framework
+- **[`Xen.db`](https://github.com/NotMarx/Xen.db)** - A SQLite3 Database
+- **[`GiveawayCord (Discord Bot)`](https://github.com/NotMarx/GiveawayCord)** **Close Sourced**
