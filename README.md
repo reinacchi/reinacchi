@@ -1,8 +1,6 @@
 # NotMarx (Reinhardt)
 I'm a Full-Stack Developer working on random things.
 
-(**Not An Expert!!**)
-
 ## Who Am I?
 
 - A Moderator Of [Discords.com](https://discords.com) And [BotsForDiscord](https://discords.com/bots)
