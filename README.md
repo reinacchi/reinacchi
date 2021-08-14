@@ -1,5 +1,7 @@
 # NotMarx (Reinhardt)
-I'm a Full-Stack Developer working on random things.
+I'm a Full-Stack Developer working on random things
+
+- **From Indonesia** 🇮🇩
 
 ## Who Am I?
 
