@@ -1,5 +1,5 @@
 # NotMarx (Reinhardt)
-I'm a Full-Stack Developer working on random things
+I'm a Full-Stack Developer working on random things. Oh, I also love anime and manga.
 
 - **From Indonesia** 🇮🇩
 
@@ -9,6 +9,5 @@ I'm a Full-Stack Developer working on random things
 - An [Eris](https://github.com/abalabahaha/eris) Contributor
 
 # Noteable Projects
-- **[`Kyuris`](https://github.com/NotMarx/kyuris)** - An Easy-To-Use [Eris](https://github.com/abalabahaha/eris) Framework
 - **[`Xen.db`](https://github.com/NotMarx/Xen.db)** - A SQLite3 Database
 - **[`GiveawayCord (Discord Bot)`](https://github.com/NotMarx/GiveawayCord)** - An Advanced Giveaway-Based Discord Bot (**Close Sourced**)
