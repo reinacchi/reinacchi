@@ -3,6 +3,12 @@ I'm a Full-Stack Developer working on random things. Oh, I also love anime and m
 
 - **From Indonesia** 🇮🇩
 
+### Programing Languages I Know:
+- JavaScript (75%)
+- TypeScript (65%)
+- HTML & CSS (65%)
+- Rust (20%)
+
 ## Who Am I?
 
 - A Moderator Of [Discords.com](https://discords.com) And [BotsForDiscord](https://discords.com/bots)
