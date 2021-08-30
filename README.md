@@ -1,19 +1,12 @@
 # NotMarx (Reinhardt)
-I'm a Full-Stack Developer working on random things. Oh, I also love anime and manga.
+I'm a Full-Stack Developer working on random things. Oh, I also love anime and manga; I'm not good at making description.
 
-- **From Indonesia** 🇮🇩
-
-### Programing Languages I Know:
-- JavaScript (75%)
-- TypeScript (65%)
-- HTML & CSS (65%)
-- Rust (20%)
+## About Me
 
 ## Who Am I?
 
 - A Moderator Of [Discords.com](https://discords.com) And [BotsForDiscord](https://discords.com/bots)
-- An [Eris](https://github.com/abalabahaha/eris) Contributor
+- Not Your Friend
 
 # Noteable Projects
-- **[`Xen.db`](https://github.com/NotMarx/Xen.db)** - A SQLite3 Database
-- **[`GiveawayCord (Discord Bot)`](https://github.com/NotMarx/GiveawayCord)** - An Advanced Giveaway-Based Discord Bot (**Close Sourced**)
+
