@@ -3,9 +3,9 @@ I'm a Full-Stack Developer working on random things. Oh, I also love anime and m
 
 ### Connections
 
-- **Email:** `notmarx.tech@gmail.com`
+- **Email:** [`notmarx.tech@gmail.com`](mailto:notmarx.tech@gmail.com)
    - To email me something
-- **Discord:** `reinhardt#8345`
+- **Discord:** [`reinhardt#8345`](https://discord.com/users/516186529547288576)
    - To contact me via Discord. I'm not active though
 - **Twitter:** [`twitter.com/NotMarxTech`](https://twitter.com/NotMarxTech)
    - To contact me via Twitter or if you're curious about my profile 
@@ -18,4 +18,3 @@ I'm a Full-Stack Developer working on random things. Oh, I also love anime and m
 - Not Your Friend
 
 # Noteable Projects
-
