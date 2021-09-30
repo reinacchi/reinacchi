@@ -14,7 +14,8 @@ I'm a Full-Stack Developer working on random things. Oh, I also love anime and m
 
 ## Who Am I?
 
-- A Moderator Of [Discords.com](https://discords.com) And [BotsForDiscord](https://discords.com/bots)
+- A Moderator At [Discords.com](https://discords.com) And [BotsForDiscord](https://discords.com/bots)
+- A Moderator At [TechHost](https://techhost.live)
 - Not Your Friend
 
 # Noteable Projects
