@@ -1,5 +1,5 @@
 # NotMarx (Reinhardt)
-I'm a ~~Full-Stack Developer~~ working on random things. Oh, I also love anime and manga; I'm not good at making description.
+Hello World, I'm a ~~Full-Stack Developer~~ working on random things. Oh, I also love anime and manga; I'm not good at making description.
 
 ### Connections
 
@@ -14,8 +14,9 @@ I'm a ~~Full-Stack Developer~~ working on random things. Oh, I also love anime a
 
 ## Who Am I?
 
-- A Moderator At [Discords.com](https://discords.com)
-- A Moderator At [TechHost](https://techhost.live)
+- A Full-Stack Developer (I guess)
+- A Moderator at [Discords.com](https://discords.com)
+- A Moderator at [TechHost](https://techhost.live)
 - Not Your Friend
 
 # Noteable Projects
