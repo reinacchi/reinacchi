@@ -1,6 +1,8 @@
 # NotMarx (Reinhardt)
 Hello World, I'm a ~~Full-Stack Developer~~ working on random things. Oh, I also love anime and manga; I'm not good at making description.
 
+I'm in love with TypeScript 💖
+
 ### Connections
 
 - **Email:** [`notmarx.tech@gmail.com`](mailto:notmarx.tech@gmail.com)
