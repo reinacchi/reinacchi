@@ -4,6 +4,11 @@
 <p><a href="https://discord.gg/fmxR8hUPSw" target="_blank"><img align="center" src="https://discord.com/api/guilds/754910336544538655/widget.png?style=shield" alt="rein's Discord"></a></p>
 <br>
 
+## Top Tools I Used In 2022
+
+- [TypeScript](https://www.typescriptlang.org)
+- [Visual Studio Code](https://code.visualstudio.com)
+
 ## Follow Me On
 
 - [Twitter](https://twitter.com/reinhello_)
