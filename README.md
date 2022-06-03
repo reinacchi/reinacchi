@@ -7,6 +7,7 @@
 ## Top Tools I Used In 2022
 
 - [TypeScript](https://www.typescriptlang.org)
+- [LazyGit](https://github.com/jesseduffield/lazygit)
 - [Visual Studio Code](https://code.visualstudio.com)
 
 ## Follow Me On
