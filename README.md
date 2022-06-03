@@ -10,7 +10,7 @@
 - [LazyGit](https://github.com/jesseduffield/lazygit)
 - [Visual Studio Code](https://code.visualstudio.com)
 
-## Follow Me On
+## Connections
 
 - [Twitter](https://twitter.com/reinhello_)
 
