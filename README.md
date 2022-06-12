@@ -10,12 +10,16 @@
 - [LazyGit](https://github.com/jesseduffield/lazygit)
 - [Visual Studio Code](https://code.visualstudio.com)
 
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reinhello&layout=compact&theme=radical&locale=en)
+
 ## Connections
 
 - [Twitter](https://twitter.com/reinhello_)
 
 ## Contribution Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinhello&show_icons=true&theme=dark&locale=en" alt="reinhello" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinhello&show_icons=true&theme=radical&locale=en" alt="reinhello" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinhello&theme=dark" alt="reinhello" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinhello&theme=radical&locale=en" alt="reinhello" /></p>
