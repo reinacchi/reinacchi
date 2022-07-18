@@ -1,5 +1,5 @@
 <h1 align="center">Reinhardt</h1>
-<h3 align="center">Hello world. I'm 14 and I code stuff.</h3>
+<h3 align="center">Hello World</h3>
 <br>
 <p><a href="https://discord.gg/fmxR8hUPSw" target="_blank"><img align="center" src="https://discord.com/api/guilds/754910336544538655/widget.png?style=shield" alt="rein's Discord"></a></p>
 <br>
