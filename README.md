@@ -19,7 +19,7 @@
 - [Discord reinhardt#8345](https://discord.com/user/516186529547288576)
 - [Twitter @reinhello_](https://twitter.com/reinhello_)
 
-## Contribution Stats
+## GitHub Contributions
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinhello&show_icons=true&theme=radical&locale=en" alt="reinhello" /></p>
 
