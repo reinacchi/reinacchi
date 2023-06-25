@@ -17,7 +17,7 @@
 
 ## Connections
 
-- [Discord reinhardt#8345](https://discord.com/user/516186529547288576)
+- [Discord @reinhello](https://discord.com/user/516186529547288576)
 - [Twitter @reinhello_](https://twitter.com/reinhello_)
 
 ## GitHub Contributions
