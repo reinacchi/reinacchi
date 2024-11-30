@@ -35,7 +35,7 @@
 [![](https://img.shields.io/badge/-Tailwind-4e9eee?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-Nuxt.js-32d18f?style=for-the-badge&logo=nuxt.js&logoColor=ffffff)](https://nuxt.com/)
 [![](https://img.shields.io/badge/-RenPy-9e3477?style=for-the-badge&logo=renpy&logoColor=white)](https://www.renpy.org/)
-[![](https://img.shields.io/badge/-Tauri-010101?style=for-the-badge&logo=tauri&logoColor=white)]([https://www.renpy.org](https://v2.tauri.app)/)
+[![](https://img.shields.io/badge/-Tauri-010101?style=for-the-badge&logo=tauri&logoColor=white)](https://v2.tauri.app/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
