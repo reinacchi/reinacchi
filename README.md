@@ -31,7 +31,7 @@
 [![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-Rust-c4aa76?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Rust-dea584?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Tailwind-4e9eee?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-Nuxt.js-32d18f?style=for-the-badge&logo=nuxt.js&logoColor=ffffff)](https://nuxt.com/)
