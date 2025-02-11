@@ -4,7 +4,7 @@
 
 #### reina is not my real name, but you can call me rein or reina.
 
-→ software developer
+→ software developer, writer, (musician)
 <br>
 → loves japanese stuff (novels, songs)
 <br>
