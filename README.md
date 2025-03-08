@@ -19,7 +19,7 @@
 
 ### 🌠 i love Rust and TypeScript btw
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/516186529547288576?bg=16101f&idleMessage=Sleeping%20in%20Bed...&theme=dark&showDisplayName=true)](https://discord.com/users/516186529547288576)
+[![Discord Presence](https://lanyard.cnrad.dev/api/516186529547288576?bg=16101f&idleMessage=頑張れ、私！！勝ち取れこの恋！&theme=dark&showDisplayName=true)](https://discord.com/users/516186529547288576)
 
 #### Platform & Tools
 <img src="https://count.getloli.com/get/@reinacchi?theme=original-new" height="100" align="right">
