@@ -2,7 +2,7 @@
 
 ### "✻✻『 i am reina 』✻✻"
 
-#### reina is not my real name, but you can call me rein or reina.
+#### nice to meet you.
 
 → software developer, writer, (musician)
 <br>
@@ -14,10 +14,10 @@
 
 <br>
 <p><a href="https://discord.gg/fmxR8hUPSw" target="_blank"><img align="center" src="https://discord.com/api/guilds/754910336544538655/widget.png?style=shield" alt="rein's Discord"></a></p>
-<p><a href="https://ko-fi.com/reinhello"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></p>
+<p><a href="https://ko-fi.com/reinacchi"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></p>
 <br>
 
-### 🌠 i love Rust and TypeScript btw
+### 🌠 i love rust and typescript btw
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/516186529547288576?bg=16101f&idleMessage=頑張れ、私！！勝ち取れこの恋！&theme=dark&showDisplayName=true)](https://discord.com/users/516186529547288576)
 
