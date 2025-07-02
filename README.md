@@ -8,7 +8,7 @@
 <br>
 → loves japanese stuff (novels, songs)
 <br>
-→ speaks **english**, **indonesian**, **german**, **chinese**, **japonese**
+→ speaks **english**, **german**, **japanese**, **chinese**, **indonesian**
 <br>
 → always tired and sleepy
 
