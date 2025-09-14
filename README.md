@@ -12,6 +12,8 @@
 <br>
 → always tired and sleepy
 
+**profile picture by [@Niaaaaaaaaaania](https://twitter.com/Niaaaaaaaaaania) -`♡´-**
+
 <br>
 <p><a href="https://discord.gg/fmxR8hUPSw" target="_blank"><img align="center" src="https://discord.com/api/guilds/754910336544538655/widget.png?style=shield" alt="rein's Discord"></a></p>
 <p><a href="https://ko-fi.com/reinacchi"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></p>
