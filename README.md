@@ -12,11 +12,6 @@
 <br>
 → always tired and sleepy
 
-<br>
-<p><a href="https://discord.gg/fmxR8hUPSw" target="_blank"><img align="center" src="https://discord.com/api/guilds/754910336544538655/widget.png?style=shield" alt="rein's Discord"></a></p>
-<p><a href="https://ko-fi.com/reinacchi"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></p>
-<br>
-
 ### 🌠 i love rust and typescript btw
 
 [![Discord Presence](https://voidchan.2rkf.fun/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
