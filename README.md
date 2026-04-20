@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/-Phoenix-ff6f61?style=for-the-badge&logo=phoenix-framework&logoColor=white)](https://www.phoenixframework.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Tailwind-4e9eee?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![](https://img.shields.io/badge/-Nuxt.js-32d18f?style=for-the-badge&logo=nuxt.js&logoColor=ffffff)](https://nuxt.com/)
+[![](https://img.shields.io/badge/-Nuxt.js-32d18f?style=for-the-badge&logo=nuxt&logoColor=ffffff)](https://nuxt.com/)
 [![](https://img.shields.io/badge/-RenPy-9e3477?style=for-the-badge&logo=renpy&logoColor=white)](https://www.renpy.org/)
 [![](https://img.shields.io/badge/-Tauri-010101?style=for-the-badge&logo=tauri&logoColor=white)](https://v2.tauri.app/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
