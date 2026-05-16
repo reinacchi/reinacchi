@@ -62,7 +62,24 @@
 
 ---
 
+### 🌷 Active Projects
+
+**✦ [VoidChan](https://github.com/reinacchi/voidchan)**  
+A multi-purpose service that aligns perfectly with your needs → [voidchan.2rkf.fun](https://voidchan.2rkf.fun)
+
+**✦ [KiNote](https://kinote.site)**  
+A hybrid note app powered by Rust and Elixir with a modern web UI.
+
+**✦ [Kaho](https://github.com/reinacchi/kaho)**  
+A Rust-based library for interacting with the Stoat API → [kaho.2rkf.fun](https://kaho.2rkf.fun)
+
+---
+
 ### 🎀 Connect with me!
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/516186529547288576)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reinacchi_)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/reinacchi.2rkf.fun)
 
 [![Discord Presence](https://voidchan.2rkf.fun/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
 
