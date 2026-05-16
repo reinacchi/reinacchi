@@ -1,28 +1,41 @@
-# Helouw ヾ(•ω•`)o
+<div align="center">
+  <img src="https://count.getloli.com/get/@reinacchi?theme=original-new" height="120" alt="visitor count">
+  
+  <h1>Helouw ヾ(•ω•`)o</h1>
+  
+  <h2>✻✻『 i am reina 』✻✻</h2>
+  
+  <p><b>nice to meet you~ ♡</b></p>
+  
+  <img src="https://img.shields.io/badge/Software%20Developer%20%26%20Writer-FF9ED2?style=for-the-badge&logo=hearts&logoColor=white" alt="title">
+</div>
 
-### "✻✻『 i am reina 』✻✻"
+---
 
-#### nice to meet you.
+### 🌸 About Me
 
-→ software developer, writer, (musician)
-<br>
-→ loves japanese stuff (novels, songs)
-<br>
-→ speaks **english**, **german**, **japanese**, **chinese**, **indonesian**
-<br>
-→ always tired and sleepy
+→ **software developer** • **writer** • **musician** ♫  
+→ obsessed with **Japanese novels**, **anime songs**, and **cute things**  
+→ speaks **English** • **German** • **日本語** • **中文** • **Bahasa Indonesia**  
+→ **perpetually sleepy** ☁️ *but still alive*
 
-### 🌠 i love rust and typescript btw
+### 🌟 Current Loves
+**Rust** & **TypeScript** are my everything right now~ 
+*(and also **Vue** & **Elixir**)*
 
-[![Discord Presence](https://voidchan.2rkf.fun/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
+---
 
-#### Platform & Tools
-<img src="https://count.getloli.com/get/@reinacchi?theme=original-new" height="100" align="right">
+### 🖥️ Tech Stack
 
-[![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)      
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+<div align="center">
 
-#### Languages & Frameworks
+![Windows](https://img.shields.io/badge/Windows%2011-4e9eee?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+**Languages & Frameworks**  
+
 [![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -46,10 +59,15 @@
 [![](https://img.shields.io/badge/-MariaDB-123070?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-## GitHub Stuff
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reinacchi&layout=compact&theme=radical&locale=en)
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinacchi&show_icons=true&theme=radical&locale=en" alt="reinacchi" /></p>
+### 🎀 Connect with me!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinacchi&theme=radical&locale=en" alt="reinacchi" /></p>
+[![Discord Presence](https://voidchan.2rkf.fun/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
+
+---
+
+<div align="center">
+  <p><i>making things with lots of love ♡</i></p>
+</div>
