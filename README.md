@@ -20,7 +20,7 @@
 → **perpetually sleepy** ☁️ *but still alive*
 
 ### 🌟 Current Loves
-**Rust** & **TypeScript** are my everything right now~ 
+**Rust** & **TypeScript** are my everything right now~  
 *(and also **Vue** & **Elixir**)*
 
 ---
