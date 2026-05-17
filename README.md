@@ -15,7 +15,7 @@
 ### 🌸 About Me
 
 → **software developer** • **writer** • **musician** ♫  
-→ obsessed with **Japanese novels**, **anime songs**, and **cute things**  
+→ obsessed with **Japanese novels**, **Japanese songs (GReeeeN!)**, and **more things**  
 → speaks **English** • **German** • **日本語** • **中文** • **Bahasa Indonesia**  
 → **perpetually sleepy** ☁️ *but still alive*
 
