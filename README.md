@@ -1,14 +1,21 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@reinacchi?theme=original-new" height="120" alt="visitor count">
-  
+
+  <br><br>
+
+  <a href="https://ko-fi.com/reinacchi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+
   <h1>Helouw ヾ(•ω•`)o</h1>
-  
+
   <h2>✻✻『 i am reina 』✻✻</h2>
-  
+
   <p><b>nice to meet you~ ♡</b></p>
-  
+
   <img src="https://img.shields.io/badge/Software%20Developer%20%26%20Writer-FF9ED2?style=for-the-badge&logo=hearts&logoColor=white" alt="title">
 </div>
+
 
 ---
 
