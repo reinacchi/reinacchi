@@ -71,10 +71,13 @@
 
 ### 🌷 Active Projects
 
+**✦ [C.O.R.E.](https://core.2rkf.fun)**  
+C.O.R.E. (Corrupted Object Runtime Environment) is a terminal-only turn-based fantasy RPG created by reinacchi under the 2rkf collective and built with the Rust programming language. Players take on the role of Operators inside a corrupted runtime where hostile entities breach the environment. Through strategic battles, players earn levels, Memory Shards, class mastery, and progression upgrades that can be used to unlock skills, strengthen builds, and survive increasingly dangerous breaches.
+
 **✦ [VoidChan](https://github.com/reinacchi/voidchan)**  
 A multi-purpose service that aligns perfectly with your needs → [voidchan.2rkf.fun](https://voidchan.2rkf.fun)
 
-**✦ [KiNote](https://kinote.site)**  
+**✦ [Koumei](https://kinote.site)**  
 A hybrid note app powered by Rust and Elixir with a modern web UI.
 
 **✦ [Kaho](https://github.com/reinacchi/kaho)**  
