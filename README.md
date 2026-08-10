@@ -71,7 +71,7 @@
 
 ### 🌷 Active Projects
 
-**✦ [VoidChan](https:/kirameki.moe)**  
+**✦ [Kirameki](https:/kirameki.moe)**  
 Kirameki is a Y2K-inspired web platform designed as an internet ecosystem and community where anyone can connect, explore, and have fun while accessing a variety of multipurpose services.
 
 **✦ [C.O.R.E.](https://core.2rkf.fun)**  
