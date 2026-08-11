@@ -91,7 +91,7 @@ A Rust-based library for interacting with the Stoat API → [kaho.2rkf.fun](http
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reinacchi_)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/reinacchi.2rkf.fun)
 
-[![Discord Presence](https://voidchan.2rkf.fun/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
+[![Discord Presence](https://kirameki.moe/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
 
 ---
 
