@@ -44,13 +44,15 @@
 **Languages & Frameworks**  
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![](https://img.shields.io/badge/-Rust-dea584?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Axum-333333?style=for-the-badge&logo=tokio&logoColor=white)](https://github.com/tokio-rs/axum)
 [![](https://img.shields.io/badge/-Elixir-4e2a8e?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![](https://img.shields.io/badge/-Phoenix-ff6f61?style=for-the-badge&logo=phoenix-framework&logoColor=white)](https://www.phoenixframework.org/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Tailwind-4e9eee?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-Nuxt.js-32d18f?style=for-the-badge&logo=nuxt&logoColor=ffffff)](https://nuxt.com/)
 [![](https://img.shields.io/badge/-RenPy-9e3477?style=for-the-badge&logo=renpy&logoColor=white)](https://www.renpy.org/)
@@ -63,9 +65,9 @@
 [![](https://img.shields.io/badge/-pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 [![](https://img.shields.io/badge/-Vue.js-42b893?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-MariaDB-123070?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-
 
 ---
 
