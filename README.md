@@ -109,8 +109,12 @@ A Rust-based library for interacting with the Stoat API → [kaho.2rkf.fun](http
 ### Logos I Made
 
 <p align="center">
-  <img src="https://kirameki.moe/Kirameki_green.png" alt="Kirameki" width="250" />
-  <img src="https://raw.githubusercontent.com/reinacchi/poring/refs/heads/master/Poring.png" alt="Poring" width="250" />
+  <a href="https://kirameki.moe" target="_blank">
+    <img src="https://kirameki.moe/Kirameki_green.png" alt="Kirameki" width="250" />
+  </a>
+  <a href="https://github.com/reinacchi/poring" target="_blank">
+    <img src="https://raw.githubusercontent.com/reinacchi/poring/refs/heads/master/Poring.png" alt="Poring" width="250" />
+  </a>
 </p>
 
 ---
