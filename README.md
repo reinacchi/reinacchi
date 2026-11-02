@@ -76,6 +76,9 @@
 **✦ [Kirameki](https://kirameki.moe)**  
 Kirameki is a Y2K-inspired web platform designed as an internet ecosystem and community where anyone can connect, explore, and have fun while accessing a variety of multipurpose services.
 
+**✦ [Poring](https://github.com/reinacchi/poring)**  
+Ergonomic Rust web framework built on Tokio and Hyper.
+
 **✦ [C.O.R.E.](https://core.2rkf.fun)**  
 C.O.R.E. (Corrupted Object Runtime Environment) is a terminal-only turn-based fantasy RPG created by reinacchi under the 2rkf collective and built with the Rust programming language. Players take on the role of Operators inside a corrupted runtime where hostile entities breach the environment. Through strategic battles, players earn levels, Memory Shards, class mastery, and progression upgrades that can be used to unlock skills, strengthen builds, and survive increasingly dangerous breaches.
 
@@ -94,6 +97,15 @@ A Rust-based library for interacting with the Stoat API → [kaho.2rkf.fun](http
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/reinacchi.2rkf.fun)
 
 [![Discord Presence](https://kirameki.moe/api/discord/516186529547288576/widget.svg?accent=%2316101f&idle_message=「ありがとう」もう言えないけど…幸せでした。)](https://discord.com/users/516186529547288576)
+
+---
+
+### Logos I Made
+
+<p align="center">
+  <img src="https://kirameki.moe/Kirameki_green.png" alt="Kirameki" width="250" />
+  <img src="https://raw.githubusercontent.com/reinacchi/poring/refs/heads/master/Poring.png" alt="Poring" width="250" />
+</p>
 
 ---
 
