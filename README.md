@@ -30,6 +30,12 @@
 **Rust** & **TypeScript** are my everything right now~  
 *(and also **Vue** & **Elixir**)*
 
+### 📊 GitHub Stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=reinacchi&show_icons=true&include_all_commits=true&theme=omni">
+<br />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=reinacchi&layout=compact&langs_count=10&theme=omni">
+
 ---
 
 ### 🖥️ Tech Stack
