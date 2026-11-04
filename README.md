@@ -21,10 +21,10 @@
 
 ### 🌸 About Me
 
-→ **software developer** • **writer** • **musician** ♫  
-→ obsessed with **Japanese novels**, **Japanese songs (GReeeeN!)**, and **more things**  
-→ speaks **English** • **German** • **日本語** • **中文** • **Bahasa Indonesia**  
-→ **perpetually sleepy** ☁️ *but still alive*
+→ 📛 **software developer** • **writer** • **musician** ♫  
+→ ❤️ obsessed with **Japanese novels**, **Japanese songs (GReeeeN!)**, and **more things**  
+→ ✒️ speaks **English** • **German** • **日本語** • **中文** • **Bahasa Indonesia**  
+→ 💤 **perpetually sleepy** ☁️ *but still alive*
 
 ### 🌟 Current Loves
 **Rust** & **TypeScript** are my everything right now~  
